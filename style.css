@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgb(41, 41, 41);
+  }
+      p{
+        font-family: "Audiowide", cursive;
+        justify-content: center;
+        color: rgb(25, 0, 32);
+        text-shadow: 2px 2px 10px rgb(255, 255, 255);
+        margin: 100px;
+        font-size: xx-large;
+              }
